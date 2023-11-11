@@ -1,5 +1,5 @@
 # Reasonably Optimized
-This modpack is designed to optimize and improve the overall Minecraft experience, with a focus on performance, stability, and quality of life. All of the mods in this pack are from [Lentern's](https://www.youtube.com/@Lentern) YouTube Video about [The best Performance Mods for Minecraft](https://www.youtube.com/watch?v=O7V7jBo5-6k). This means that users can easily install and use the mods in this pack without any hassle, and can be confident that they are getting the best possible experience.
+This modpack is designed to optimize and improve the overall Minecraft experience, with a focus on performance, stability, and quality of life. This means that users can easily use the mods that improve the Gameplay of Minecraft without any hassle, and can be confident that they are getting the best possible experience.
 
 Some of the specific ways that this modpack optimizes and improves Minecraft include:
 
